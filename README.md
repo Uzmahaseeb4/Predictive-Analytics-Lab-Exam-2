@@ -22,16 +22,13 @@ The following steps were performed:
 * Identified missing values
 * Analyzed class distribution
 * Generated correlation heatmap for numerical features
-* Visualized feature distributions and detected outliers using boxplots
+
 
 ---
 
 ## ⚙️ Data Preprocessing
 
-* Handled missing values using mean imputation
-* Removed outliers using the **IQR (Interquartile Range) method**
 * Selected features (X) and target variable (y)
-* Applied **feature scaling (StandardScaler)**
 * Split dataset into training and testing sets (80:20 ratio)
 
 ---
